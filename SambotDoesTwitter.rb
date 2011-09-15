@@ -1,3 +1,5 @@
+require 'twitter'
+
 class SambotDoesTwitter < SambotPlugin
     
   def initialize(sambot)
